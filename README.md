@@ -1,4 +1,4 @@
-# toml2json2yaml
+# Toml ⇄ Json Converter
 
 > convert between toml, json and yaml
 
