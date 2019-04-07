@@ -13,6 +13,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@iarna/toml": "^2.2.3",
     "vue": "^2.5.2"
   },
   "devDependencies": {
