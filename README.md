@@ -1,6 +1,6 @@
 # Toml ⇄ Json Converter
 
-> convert between toml, json and yaml
+> convert between toml, json
 
 ## Build Setup
 
