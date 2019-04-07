@@ -7,7 +7,7 @@
       <p>
         Toml ⇆ Json Converter is a simple online tool.<br>
         This tool can convert Json to Toml, Toml to Json.<br>
-        All processings are exected in javascript, so the your data is never sent to an external server.
+        All processings are executed in javascript, so the your data is never sent to an external server.
       </p>
     </div>
     <div class="row">
@@ -37,7 +37,7 @@ export default {
   },
   data: () => ({
     commonData: {
-      'title': 'Toml to Json to Yaml',
+      'title': 'Toml to Json, Json to Toml',
       'repository': {
         'url': 'https://github.com/esakat/toml2jsonConverter',
         'owner': 'esakat'
